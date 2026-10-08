@@ -1,0 +1,11 @@
+# AI VisionGuard - Python 3.14 (regular CPython, NOT free-threaded 3.14t)
+# Binary packages are pinned to versions with Windows CPython 3.14 wheels.
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+ultralytics>=8.3,<9
+numpy>=2.3.5,<3
+opencv-python>=4.14,<5
+psutil>=7.2,<8
+polars==2.0.0
+torch==2.14.1
+torchvision==0.29.1
